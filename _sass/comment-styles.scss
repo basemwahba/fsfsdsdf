@@ -10,7 +10,6 @@ $comment-font-size: 17px !default;
 //
 input, select, textarea, label, button {
 //    @extend body;
-    background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
         -moz-font-feature-settings: "kern" 1;
